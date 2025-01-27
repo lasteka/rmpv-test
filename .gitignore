@@ -1,0 +1,5 @@
+.vscode
+*.txt
+vendor/
+.env-example
+*.png
