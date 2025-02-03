@@ -15,3 +15,8 @@ echo 'c269';
 //commentgit
 echo 'dq';
 echo 'ddq';
+
+echo '1';
+echo '2';
+
+echo '3';
